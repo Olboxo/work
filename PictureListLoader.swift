@@ -1,8 +1,8 @@
 //
-//  JSONLoader.swift
+//  PictureListLoader.swift
 //  ewewewewee
 //
-//  Created by RUNNWN170414 on 14/10/2022.
+//  Created by Olga
 //
 
 import Foundation

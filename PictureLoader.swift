@@ -2,7 +2,7 @@
 //  PictureLoader.swift
 //  ewewewewee
 //
-//  Created by RUNNWN170414 on 26/09/2022.
+//  Created by Olga
 //
 
 import Foundation
